@@ -365,8 +365,7 @@ Consider adding CloudWatch alarms for:
 
 This solution provides comprehensive S3 access logging with both real-time monitoring and long-term archival capabilities, suitable for security auditing, compliance, and operational monitoring requirements.
 
-### License
-This solution is provided as-is for educational and testing purposes. 
+## License
 
 **PRODUCTION DEPLOYMENT NOTICE**
 
