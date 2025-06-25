@@ -368,7 +368,8 @@ This solution provides comprehensive S3 access logging with both real-time monit
 ### License
 This solution is provided as-is for educational and testing purposes. 
 
-PRODUCTION DEPLOYMENT NOTICE
+**PRODUCTION DEPLOYMENT NOTICE**
+
 This solution is intended as a reference architecture and is provided as educational and testing purposes only.
 Required before production deployment:
   - Error handling implementation
